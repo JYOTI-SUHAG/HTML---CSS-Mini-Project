@@ -1,1 +1,2 @@
-# html-css-project-boilerplate
+Clarusway Parallax Website
+This is An Example of Parallex Website.
